@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  padding-left: 900px;
+  font-size: 50px;
+}
+ul {
+  color: blue;
+  padding-left: 900px;
+  font-size: large;
+}
+p {
+  padding-left: 900px;
+  font-size: 30px;
+}
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj-DTxBRneweC6JCIEc6itjOjM4Yp1of0DmQ&usqp=CAU);
+  height: 100vh;
+  background-size: cover;
+}
